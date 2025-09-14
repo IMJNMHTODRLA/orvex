@@ -1,0 +1,37 @@
+{
+    "name": "orvex",
+    "version": "1.0.1",
+    "description": "A lightweight TypeScript library to create and manipulate HTML elements with ease.",
+    "main": "dist/load.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/IMJNMHTODRLA/orvex"
+    },
+    "bugs": {
+        "url": "https://github.com/IMJNMHTODRLA/orvex/issues"
+    },
+    "homepage": "https://github.com/IMJNMHTODRLA/orvex#readme",
+    "keywords": [
+        "react",
+        "orvex",
+        "or",
+        "ve",
+        "x",
+        "typescript",
+        "javascript",
+        "light",
+        "library",
+        "create",
+        "html",
+        "ts",
+        "js",
+        "script",
+        "dom",
+        "jquary"
+    ],
+    "author": "_redgold__",
+    "license": "WTFPL"
+}
