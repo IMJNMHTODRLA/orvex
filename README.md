@@ -1,15 +1,16 @@
 # orvex
-### Version 1.0.0
+### Version 1.1.0
+**No npm installation required — works directly via CDN**
 
 ---
 
 ## Update
 
-- first version
+- bug fix
 
 ---
 
-## install
+## install(Not required)
 ```bash
 $ npm install orvex
 ```
@@ -37,7 +38,11 @@ $ npm install orvex
 #### app.js
 
 ```js
-import * as orvex from "orvex"
+import * as orvex from "https://cdn.jsdelivr.net/npm/orvex/+esm"
+// or "https://cdn.jsdelivr.net/npm/orvex@{version}/+esm"
+
+//No need to install orvex
+//and no need to npm
 
 let count = 0
 

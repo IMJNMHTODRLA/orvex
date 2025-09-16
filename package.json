@@ -1,6 +1,6 @@
 {
     "name": "orvex",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "description": "A lightweight TypeScript library to create and manipulate HTML elements with ease.",
     "main": "dist/load.js",
     "scripts": {
